@@ -20,8 +20,6 @@
         "laravel-doctrine/orm": "*"
     },
     "require-dev": {
-        "laravel/pint": "^1.0",
-        "nunomaduro/collision": "^7.9"
     },
     "autoload": {
         "psr-4": {
@@ -58,6 +56,6 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
